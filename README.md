@@ -1,4 +1,4 @@
-# network_switch_sender
+# network_switch_data_streamer
 Framework that decides the sending data
 
 This Framework gets the responsibility of deciding the type of sendind data from the application.
